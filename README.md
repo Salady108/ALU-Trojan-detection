@@ -22,10 +22,14 @@ The project focuses on **RTL design and functional verification**, along with a 
 ## Hackathon Context
 - Developed in a **24-hour national-level hackathon**
 - Qualified for finals and awarded a **Certificate of Merit**
+- Team Members:
+  - [Sriprahlad Mukunthan](https://github.com/Salady108)
+  - Shresh Parti
+  - [Vamshikrishna V Bidari](https://github.com/VamshikrishnaBidari)
 ---
 ## Disclaimer
 This project is for academic learning purposes. The Trojan implementation is simplified and intended only to demonstrate basic concepts.
 ---
 ## Author
 Sriprahlad Mukunthan  
-B.Tech ECE, NIT Karnataka
+B.Tech. ECE, NIT Karnataka
