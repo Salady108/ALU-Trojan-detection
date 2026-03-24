@@ -24,7 +24,7 @@ The project focuses on **RTL design and functional verification**, along with a 
 - Qualified for finals and awarded a **Certificate of Merit**
 - Team Members:
   - [Sriprahlad Mukunthan](https://github.com/Salady108)
-  - Shresh Parti
+  - [Shresh Parti](https://github.com/sp0663)
   - [Vamshikrishna V Bidari](https://github.com/VamshikrishnaBidari)
 ---
 ## Disclaimer
